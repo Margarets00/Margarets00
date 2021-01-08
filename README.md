@@ -1,4 +1,7 @@
 ### Hi there 👋
+ 👈 She is my LOVELY cat, Saekkam.
+  - I'm interested Front End(especially React and Flutter)
+  - I love doing toy project, so contact me if you join with me!
 ![Magarets00's github stats](https://github-readme-stats.vercel.app/api?username=Margarets00&show_icons=true)
 
 <!--
